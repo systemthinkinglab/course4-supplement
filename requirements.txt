@@ -1,0 +1,4 @@
+# Course 4 labs use only the Python standard library.
+# No third-party dependencies required.
+#
+# Python 3.8 or higher is required.
